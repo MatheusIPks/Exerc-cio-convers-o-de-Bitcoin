@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Conversor Bitcoin</string>
+    <string name="titulo">Conversor Real ⇄ Bitcoin</string>
+    <string name="cotacao_info">Cotação fixa: 1 BTC = %1$s\n(referência: 30/09/2026)</string>
+    <string name="modo_brl_btc">Real → Bitcoin</string>
+    <string name="modo_btc_brl">Bitcoin → Real</string>
+    <string name="label_valor_brl">Valor em Reais (R$)</string>
+    <string name="label_valor_btc">Quantidade em Bitcoin (BTC)</string>
+    <string name="converter">Converter</string>
+    <string name="erro_numero">Digite um número válido.</string>
+</resources>
